@@ -1,5 +1,5 @@
 # upwader's website
-Upwader's Website. Closed source. Go fuck yourself.
+Upwader's Website. Open source because Github didnt let me host the website with it being closed source.
 
 It seems today, that all ya see is violence in movies and sex on TV.
 But where are those good old fashioned values?
